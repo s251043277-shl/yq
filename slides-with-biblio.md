@@ -309,6 +309,96 @@ This chart assesses the process capability for Part Length from Machine 3 (Tempe
 
 ::::
 
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart (xbar.one) for Part Length (Machine 1, Temp 338, Pres 200)
+
+This control chart (xbar.one) monitors the Part Length for Machine 1 at Temperature 338 and Pressure 200, highlighting any out-of-control points or trends.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/control_chart_m1_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart: Part Length (Machine 1, Temp 338, Pres 200)
+
+This chart assesses the process capability for Part Length from Machine 1 (Temperature 338, Pressure 200). Illustrative specification limits of LSL=45, USL=55, and Target=50 have been used. It shows how well the process output meets these specifications.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/process_cap_m1_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart (xbar.one) for Part Length (Machine 2, Temp 338, Pres 200)
+
+This control chart (xbar.one) monitors the Part Length for Machine 2 at Temperature 338 and Pressure 200, highlighting any out-of-control points or trends.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/control_chart_m2_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart: Part Length (Machine 2, Temp 338, Pres 200)
+
+This chart assesses the process capability for Part Length from Machine 2 (Temperature 338, Pressure 200). Illustrative specification limits of LSL=45, USL=55, and Target=50 have been used. It shows how well the process output meets these specifications.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/process_cap_m2_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart (xbar.one) for Part Length (Machine 3, Temp 338, Pres 200)
+
+This control chart (xbar.one) monitors the Part Length for Machine 3 at Temperature 338 and Pressure 200, highlighting any out-of-control points or trends.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/control_chart_m3_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+------
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart: Part Length (Machine 3, Temp 338, Pres 200)
+
+This chart assesses the process capability for Part Length from Machine 3 (Temperature 338, Pressure 200). Illustrative specification limits of LSL=45, USL=55, and Target=50 have been used. It shows how well the process output meets these specifications.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/process_cap_m3_t338_p200.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
 ---
 # Bibliography
 <div id="refs"></div>
